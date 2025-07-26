@@ -2,7 +2,7 @@ import streamlit as st
 from utils import generate_script  # 从本地工具模块导入脚本生成函数
 import time  # 添加重试机制需要
 
-# 设置页面标题和图标
+
 st.title("凯子视频脚本生成器")
 
 # 侧边栏设置
