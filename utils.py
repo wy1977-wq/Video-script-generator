@@ -2,7 +2,6 @@
 from langchain.prompts import ChatPromptTemplate  # 用于构建聊天提示模板
 from langchain_openai import ChatOpenAI  # LangChain的OpenAI聊天模型封装
 import requests  # 用于发送HTTP请求
-import json  # JSON数据处理
 
 
 # API连接测试函数
